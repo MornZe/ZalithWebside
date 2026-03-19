@@ -36,30 +36,30 @@ export default {
   },
   features: {
     title: "Why Choose Zalith?",
-    subtitle: "We are more than just a launcher, we are your best companion for playing Java edition on mobile.",
+    subtitle: "We are more than just a launcher; we are your best companion for playing Java Edition on mobile.",
     ui: {
       title: "Modern UI Experience",
-      desc: "Built with Jetpack Compose and Material Design 3, providing a smooth, modern, and intuitive interface."
+      desc: "Built with a modern design language, providing a smooth and intuitive interface. Say goodbye to cumbersome operations; every feature is at your fingertips, making launching the game a joy."
     },
-    core: {
-      title: "High Performance Core",
-      desc: "Deeply optimized based on PojavLauncher core for Android devices to ensure smooth and stable gameplay."
+    download: {
+      title: "All-in-One Download",
+      desc: "Built-in powerful download manager to directly fetch and install game cores, mods, modpacks, and resource packs. Multi-source acceleration for lightning-fast downloads."
     },
     version: {
-      title: "Complete Version Management",
-      desc: "Supports version isolation and custom path settings, easily manage multiple versions, mods, and saves."
+      title: "Robust Version Management",
+      desc: "Supports flexible version isolation and custom path settings. Easily manage Vanilla, Fabric, or Forge environments keeping them organized and independent."
     },
     render: {
       title: "Rich Renderer Support",
-      desc: "Built-in multiple renderer solutions and supports plugin extensions, perfectly adapting to different hardware."
+      desc: "Built-in multiple renderer solutions with advanced parameter tuning. Find the perfect rendering configuration to balance game quality and framerate for any device."
     },
-    i18n: {
-      title: "Multi-language Support",
-      desc: "Globalized translations driven by Weblate platform, supporting multiple languages for players worldwide."
+    multiplayer: {
+      title: "Built-in Multiplayer",
+      desc: "Native support for multiplayer gameplay, easily connecting to major servers. Fight alongside friends, explore endless block worlds, and enjoy a stable online experience."
     },
-    community: {
-      title: "Community Driven",
-      desc: "Active community support and open-source spirit, continuous feature iterations and bug fixes."
+    settings: {
+      title: "Highly Customizable",
+      desc: "From game parameters to control layouts, from language options to appearance themes, everything can be configured on demand to create your personalized launcher environment."
     }
   },
   download: {
