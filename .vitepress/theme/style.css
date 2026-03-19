@@ -510,8 +510,10 @@
   --vp-home-hero-image-filter: blur(44px);
 }
 
-// 修复VitePress导航栏问题
-// 补丁代码 不确定兼容性
+/* ===========================
+   修复VitePress导航栏问题
+   补丁代码 不确定兼容性
+   =========================== */
 
 .VPNavScreen {
   padding-left: 12px !important;
@@ -525,4 +527,4 @@
   max-width: 100% !important;
 }
 
-// 补丁代码结束
+/* =========================== */
