@@ -6,31 +6,31 @@
       "name": "ZalithLauncher-2.2.4-arm64-v8a.apk",
       "browser_download_url": "https://github.com/ZalithLauncher/ZalithLauncher2/releases/download/2.2.4/ZalithLauncher-2.2.4-arm64-v8a.apk",
       "size": "174.4 MB",
-      "download_count": 8973
+      "download_count": 14017
     },
     {
       "name": "ZalithLauncher-2.2.4-armeabi-v7a.apk",
       "browser_download_url": "https://github.com/ZalithLauncher/ZalithLauncher2/releases/download/2.2.4/ZalithLauncher-2.2.4-armeabi-v7a.apk",
       "size": "167.9 MB",
-      "download_count": 278
+      "download_count": 463
     },
     {
       "name": "ZalithLauncher-2.2.4-x86.apk",
       "browser_download_url": "https://github.com/ZalithLauncher/ZalithLauncher2/releases/download/2.2.4/ZalithLauncher-2.2.4-x86.apk",
       "size": "159.5 MB",
-      "download_count": 111
+      "download_count": 179
     },
     {
       "name": "ZalithLauncher-2.2.4-x86_64.apk",
       "browser_download_url": "https://github.com/ZalithLauncher/ZalithLauncher2/releases/download/2.2.4/ZalithLauncher-2.2.4-x86_64.apk",
       "size": "178.1 MB",
-      "download_count": 81
+      "download_count": 149
     },
     {
       "name": "ZalithLauncher-2.2.4.apk",
       "browser_download_url": "https://github.com/ZalithLauncher/ZalithLauncher2/releases/download/2.2.4/ZalithLauncher-2.2.4.apk",
       "size": "305.1 MB",
-      "download_count": 1675
+      "download_count": 2525
     }
   ],
   "body": "## Updates:\r\n- Synced translations from the [Weblate project](https://hosted.weblate.org/projects/zalithlauncher2/)\r\n- Added support for loading native library plugins, plugin repository: [NativeLibPlugin](https://github.com/ZalithLauncher/NativeLibPlugin/releases)\r\n- Controls: added support for using a stylus to interact with the game view\r\n\r\n## Changes:\r\n- Modpack installation: users can now cancel when entering the version name\r\n\r\n## Refactors:\r\n- Rewrote the account management screen using Hilt and MVI architecture. by [youfeng](https://github.com/youfeng11)\r\n\r\n## Fixes:\r\n- LWJGL: fixed inability to interact with Axiom mod GUI (imgui-java)\r\n- Fixed path formatting issues in the in-game file browser\r\n- Background: reduced frequent launcher background reloads\r\n- Resolution: fully fixed mouse offset issues on some devices"
